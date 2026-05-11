@@ -39,6 +39,12 @@ common:
     url: https://docs.massdriver.cloud
   - type: GitHub Organization
     url: https://github.com/massdriver-cloud
+  - type: Integrations
+    url: https://www.massdriver.cloud/partners
+integrations:
+  - name: Massdriver
+  - name: AWS Partner
+  - name: Google Cloud Partner
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
