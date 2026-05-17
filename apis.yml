@@ -30,14 +30,14 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.massdriver.cloud
-      - type: Getting Started
+      - type: GettingStarted
         url: https://docs.massdriver.cloud/getting-started
 common:
   - type: Website
     url: https://www.massdriver.cloud
   - type: Documentation
     url: https://docs.massdriver.cloud
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/massdriver-cloud
   - type: Integrations
     url: https://www.massdriver.cloud/partners
