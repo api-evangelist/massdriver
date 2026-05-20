@@ -33,6 +33,8 @@ apis:
       - type: GettingStarted
         url: https://docs.massdriver.cloud/getting-started
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/massdriver
   - type: Website
     url: https://www.massdriver.cloud
   - type: Documentation
