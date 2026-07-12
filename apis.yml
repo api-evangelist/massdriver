@@ -33,6 +33,10 @@ apis:
       - type: GettingStarted
         url: https://docs.massdriver.cloud/getting-started
 common:
+  - type: VulnerabilityDisclosure
+    url: security/massdriver-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/massdriver-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/massdriver
   - type: Website
