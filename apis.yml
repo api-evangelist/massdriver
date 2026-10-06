@@ -36,7 +36,7 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/massdriver/refs/heads/main/apis.yml
 created: '2026-03-27'
-modified: '2026-04-28'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: massdriver:massdriver
@@ -56,6 +56,10 @@ apis:
       - type: GettingStarted
         url: https://docs.massdriver.cloud/getting-started
 common:
+  - url: https://www.massdriver.cloud/blogs
+    type: Blog
+  - url: https://www.massdriver.cloud/rss.xml
+    type: BlogRSS
   - type: VulnerabilityDisclosure
     url: security/massdriver-vulnerability-disclosure.yml
   - type: DomainSecurity
