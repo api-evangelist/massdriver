@@ -1,0 +1,21 @@
+{
+  "repo": "massdriver",
+  "feeds": [
+    {
+      "source": "https://www.massdriver.cloud/blogs",
+      "feed_url": "https://www.massdriver.cloud/blogs",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.massdriver.cloud/rss.xml",
+      "feed_url": "https://www.massdriver.cloud/rss.xml",
+      "title": "",
+      "saved": 1,
+      "method": "feed"
+    }
+  ],
+  "post_count": 1,
+  "fetched": "2026-10-10T13:15:00Z"
+}
